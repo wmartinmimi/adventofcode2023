@@ -19,8 +19,6 @@ def isDigit(text):
         return 8
     if text[:4] == 'nine':
         return 9
-    if text[:4] == 'zero':
-        return 0
     return None
 
 
