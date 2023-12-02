@@ -1,5 +1,6 @@
 sum = 0
 
+
 def isDigit(text):
     if text[:3] == 'one':
         return 1
